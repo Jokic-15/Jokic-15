@@ -27,12 +27,12 @@ I am currently an M.Sc. in Chemistry (by Research) at the National University of
 # 📝 Publications 
 - [Fluorescent Probes for Biotoxins: Mechanisms, Applications, and Future Prospects](https://doi.org/10.1016/j.trac.2026.118820), **Ruixing Ge**, ..., Hongwei Ma, **Trends in Analytical Chemistry 2026**
 - [Green Synthesis of Sodium Alginate/Casein Gel Beads and Applications](https://doi.org/10.3390/nano15060456), **Ruixing Ge**, ..., Zhiguo Liu, **Nanomaterials 2025**
-- [Research Progress in Preparation and Application of Sodium Alginate/Cellulose/Chitosan Gel Materials](https://doi.org/10.3390/nano15060456), Huang Jin, **Ruixing Ge**,  **Journal of Shandong Agricultural University 2025**
+- [Research Progress in Preparation and Application of Sodium Alginate/Cellulose/Chitosan Gel Materials](https://cjournal.hep.com.cn/1000-2324/CN/CNKI:SUN:SCHO.0.2025-04-009), Huang Jin, **Ruixing Ge**,  **Journal of Shandong Agricultural University 2025**
 
 # 🎖 Honors and Awards
 - *2025.07* University-level Excellent Graduation Thesis Award, Northeast Forestry University 
 
 # 📖 Educations
-- *2026.01 - 2027.07 (Expected)*, M.Sc. in Chemistry (by Research), National University of Singapore. Advisor: Xiaoyan Li.
+- *2026.01 - 2027.7/12 (Expected)*, M.Sc. in Chemistry (by Research), National University of Singapore. Advisor: Xiaoyan Li.
 - *2025.09 - 2025.11*, Visiting Student, Westlake University. Advisor: Hongyu Chen.
 - *2021.09 - 2025.06*, B.Sc. in Chemistry (Sino-Foreign Cooperative Education), Northeast Forestry University.
